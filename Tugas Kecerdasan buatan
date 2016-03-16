@@ -1,4 +1,45 @@
 #Tugas Kecerdasan buatan
-Nama    : Kartini Pratiwi <br>
+Nama    : Kartini Pratiwi
 NIM     : 13 111 3115
 Kelas   : TPBPagi 
+
+1. Apakah anda setuju atau tidak dengan pendapat Turing?
+         Dari artikel yang saya baca,menurut  secara keagamaan  “The Theological Keberatan “ bahwa berfikir adalah sifat asli manusia . Menurut saya semua yang ada didalam mesin mengandung ide,fikiran serta kreatifitas dan analisis manusia yang diubah menjadi bahasa mesin itu sendiri yang kemudian diubah menjadi bahasa mesin . Mesin tahu cara menganalisis dari yang kita ajarkan atau yang dalam artian yang kita tuangkan dalam proggram . Namun dalam pendpatnya dia hanya mengungkapkan hanya manusia saja yang dapat berfikir sedangkan hewan dan mesin tidak . 
+        Menurut saya tidak hanya manusia saja yang dapat berfikir namun juga hewan namun tidak memilki akal budi dan kemampuan untuk mengalisis adalah kemampuan yang sangat  kecil persentasi nya yang diliki oleh hewan. Jadi saya setuju dengan tes turing ini .Tetapi pada suatu saat nanti  akan ada komputer atau mesin yang dapat melewati tes turing . Mungkin akan dalam waktu yang lama dan dengan proses yang rumit serta komplek yang nanti akan mirip dengan perilaku dasar manusia.
+Halangan yang menghambat komputer untuk melewati tes turingh adalah komputer atau mesin adalah sebuah hasil dari insipirasi seorang manusia yang dalam artian sifat dasar manusia yaitu berfikir tidak dimiliki oleh komputer atau mesin . Sulit nya mengimplementasikan nya dalam bahasa mesin karena itu adalah sifat alami alami manusia yang tidak dibuat-buat.
+
+2.
+a. Natural Language Processing  (NLP) atau Pemrosesan Bahasa Alami (PBA) adalah cabang ilmu komputer dan linguistik yang mengkaji interaksi antara komputer dengan bahasa (alami) manusia. Pemrosesan bahasa alami sering dianggap sebagai cabang dari kecerdasan buatan dan bidang kajiannya bersinggungan dengan linguistik komputasional. Kajian pemrosesan bahasa alami antara lain mencakup segmentasi tuturan (speech segmentation), segmentasi teks (text segmentation), penandaan kelas kata (part-of-speech tagging), serta pengawataksaan makna (word sense disambiguation). Meskipun kajian yang  mencakup teks dan tuturan, pemrosesan tuturan (speech processing) berkembang menjadi suatu bidang kajian terpisah.
+Tujuan dalam bidang natural language adalah melakukan proses pembuatan model komputasi dari bahasa, sehingga terjadi interaksi antara manusia dengan komputer dengan perantara bahasa alami. Model komputasi ini dapat berguna untuk keperluan ilmiah seperti meneliti sifat-sifat dari suatu bentuk bahasa alami maupun uttuk keperluan sehari-sehari, dalam hal ini memudahkan komunikasi antara manusia dengan komputer.
+
+Contoh penerapannya :
+Text-based application : mencakup segala macam aplikasi yang melakukan terhadap teks tertulis seperti pada buku, berita di surat kabar, e-mail dan lain sebagainya. Contoh penggunaan aplikasi ini antara lain adalah mencari topik tertentu dari buku yang ada di perpustakaan, mencari isi dari surat atau e-mail, menerjemahkan dokumen dari satu bahasa ke bahasa yang lain.
+
+b. Knowledge Representation
+Knolwledge Representation adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan masalah.
+Contoh penerapannya :
+contoh yang paling umum adalah semantic network. Network merupakan suatu hirarki dan child dapat berhubungan dengan parent-nya.
+c. Automated Reasoning 
+  Automated Reasoning adalah penalaran otomatis bidang ilmu komputer dan logika mamemetika yang didedikasikan serat direpresentasikan untuk memahami berbagai aspek pengetahuan penalaran.
+Contoh penerapannya :
+Sistem pakar,fuzzy logic dan robot.
+d. Machine Learning 
+Machine Learning  adalah Pembelajaran mesin merupakan sebuah caban atau bagian dari kecerdasan buatan . Inti dari mesin belajar berkaitan dengan representasi dan genelerasasi metode.
+Contoh penerapannya :
+Dalam bidang kedokteran Bagaiman mendeteksi penyakit seseorang dari gejala-gejala yg ada atau deteksi apakah seseorang mengidap penyakit jantung dari rekaman elektrokardiogram dan mencari btau gen yang terlibat dalam penyakit kanker.
+
+e. Computer Vision
+Computer Vision : Visi komputer adalah untuk mencakup metode untuk memperoleh mengolah dan menganalisa pemahamna gmabar secra global atau umum data dimensi tinggi dari dunian nyata yang menghasilkan informasi numerik Computer vision adalah ilmu yang melihat yg berarti mampu mengestrak informasi  dari gambar.dalam artian bgaiman komputer dpapat memaham gambar..
+Contoh penerapannya: 
+Dibidang pertahanan dan keamanan(MILITER)
+Deteksi tentara musuh atau kendaraan dan bimbingan rudal .Sistem lebih canggih mengirim rudal ke daerah  drpada target yg spesifik . Konsep modern perang seperti kesadaran medan perang menujjukan sebagai sensor,termasuk sensor gambar.
+
+f.Robotika 
+Cabang dari teknologi yang berhubungan dengan desain,konstruksi operasi dan aplikasi robot yang merepresentasikan perilaku dasar manusia.
+Contoh penerapannya: 
+SIMRoid robot manusia tetapi unik berambut panjang robot ini untuk praktik seoklah kedokteran gigi, Robot ini dapat menunjukkan ekpsresi tidak nyaman dengan mengerutkan dahi.dan mampu bilang sakit dan berteriak ouw ketika bor dokter mengenai saraf nya.
+
+
+
+
+
